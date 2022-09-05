@@ -55,4 +55,4 @@ yarn test
 
 ### Host
 
-To see the application running in production, just [click here]((https://croct-challenge-walbinh0.vercel.app/).
+To see the application running in production, just [click here](https://croct-challenge-walbinh0.vercel.app/).
