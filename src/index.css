@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  box-shadow: none !important;
+  color: #677489;
+}
+button {
+  cursor: pointer;
+}
+
+input[type="file"],
+input[type="file"]::-webkit-file-upload-button {
+  cursor: pointer;
+}
