@@ -53,6 +53,6 @@ yarn test
 
 ---
 
-# Challenge URL
+### Host
 
-<https://challenge-croct-jgfj.netlify.app/>
+To see the application running in production, just [click here](https://avatar-upload-joaod3v.vercel.app/).
